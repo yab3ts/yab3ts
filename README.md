@@ -235,10 +235,10 @@
 ## 📦 Latest GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anon381&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true" />
 -->
-
+<!--
 ⏱️ **Last Commit:**  
 ![GitHub last commit](https://img.shields.io/github/last-commit/anon381/leetcode?style=for-the-badge)
-
+-->
 ---
 
 <p align="center" style=" font-weight: bold; margin: 0;">
