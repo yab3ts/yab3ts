@@ -83,7 +83,7 @@
 <div >
 
 > Hi, I'm **Yabets Maregn** 👋  
-> 22 years old, 4th-year **Software Engineering** student at Addis Ababa Science and Technology University - AASTU
+>  **Software Engineering** student at Addis Ababa Science and Technology University - AASTU
 
 > Full-Stack Web Developer | ML & AI Enthusiast  
 > Continuously building modern, interactive web applications and exploring intelligent, data-driven solutions.
