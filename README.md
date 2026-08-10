@@ -6,8 +6,8 @@
 </h1>
 
  <p align="center">
-  <a href="https://user-badge.committers.top/ethiopia/anon381">
-    <img src="https://user-badge.committers.top/ethiopia/anon381.svg" alt="committers.top badge"/>
+  <a href="https://user-badge.committers.top/ethiopia/yab3ts">
+    <img src="https://user-badge.committers.top/ethiopia/yab3ts.svg" alt="committers.top badge"/>
   </a>
   <strong> One of the Top GitHub Committers in Ethiopia 🇪🇹 </strong>
 </p>
@@ -16,6 +16,7 @@
   <a href="https://yabets-maregn.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+ 
 </p>
 
 <p align="center">
@@ -26,59 +27,13 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yabets+%2F+Anon.;Frontend+Developer;Backend+Developer;Database+Management;Fullstack+Web+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=220&lines=About+Me" alt="Typing SVG" />
 </p>
-<!-- <table style="width: 100%; border-collapse: collapse; text-align: left;">
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-       <strong> Passionate Full-Stack Web Developer</strong> with a proven track record of creating interactive, scalable web applications that deliver seamless user experiences.
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-       Actively working with <strong>Next.js, TypeScript, TailwindCSS, React, Node.js, PostgreSQL, MongoDB</strong>, and <strong>REST/GraphQL APIs</strong> to build modern, full-stack applications.
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-       Proficient in handling <strong>authentication (Auth.js, Clerk, Firebase, Supabase)</strong>, <strong>state management (Zustand, React Query)</strong>, and optimizing performance for high-quality user experiences.
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-       Exploring the world of <strong>Machine Learning(ML), Artificial Intelligence(AI), and Data Analytics(DA)</strong> to add intelligent, data-driven features to my projects.
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-       Continuously learning, iterating, and shipping solutions to push the boundaries of what's possible.
-    </td>
-  </tr>
-    
-</table> -->
 
 <div >
 
@@ -211,8 +166,8 @@
 
 | 🚀 Project                  | 🔧 Stack                | 👁️ View                                                         |
 | --------------------------- | ----------------------- | --------------------------------------------------------------- |
-| **[Goodreads PHP Backend]** | PHP, MySQL              | [GitHub Repo](https://github.com/anon381/goodreads-php-backend) |
-| **[IP-1 Project]**          | Full Stack Book Manager | [GitHub Repo](https://github.com/anon381/IP-1-Project)          |
+| **[Goodreads PHP Backend]** | PHP, MySQL              | [GitHub Repo](https://github.com/yab3ts/goodreads-php-backend) |
+| **[IP-1 Project]**          | Full Stack Book Manager | [GitHub Repo](https://github.com/yab3ts/IP-1-Project)          |
 
 </td>
 </tr>
@@ -223,22 +178,17 @@
 ## 🚧 Ongoing Projects
 
 | 🚀 Project             | 🔧 Stack                                 | 👁️ View                                           |
-| ---------------------- | ---------------------------------------- | ------------------------------------------------- |
+| ---------------------- | ----------------------------------------- | ------------------------------------------------- |
 | **[Kidus production]** | Next.js, Typescript, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
 
 ---
 
 </div>
 
-<!--
-
 ## 📦 Latest GitHub Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anon381&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true" />
--->
-<!--
-⏱️ **Last Commit:**  
-![GitHub last commit](https://img.shields.io/github/last-commit/anon381/leetcode?style=for-the-badge)
--->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yab3ts&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true" />
+
 ---
 
 <p align="center" style=" font-weight: bold; margin: 0;">
@@ -252,7 +202,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-eta-beige.vercel.app/?username=anon381&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy-eta-beige.vercel.app/?username=yab3ts&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -260,13 +210,13 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=anon381&show_icons=true&count_private=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=FF8C00" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yab3ts&show_icons=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=FF8C00" height="160"/>
 
   <!-- Top Languages -->
 
-<a href="https://github.com/anon381" target="_blank" style="display:inline-block;">
+<a href="https://github.com/yab3ts" target="_blank" style="display:inline-block;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&bg_color=0D1117&title_color=33CCFF&text_color=FFFFFF&icon_color=33CCFF" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab3ts&layout=compact&bg_color=0D1117&title_color=33CCFF&text_color=FFFFFF&icon_color=33CCFF" 
     height="160" 
     style="border-radius:10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
     onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(51,204,255,0.6)';"
@@ -285,11 +235,21 @@
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img 
-      src="https://streak-stats.demolab.com?user=anon381&background=0E1117&ring=33CCFF&fire=33CCFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=33CCFF&stroke=33CCFF" 
+      src="https://streak-stats.demolab.com?user=yab3ts&background=0E1117&ring=33CCFF&fire=33CCFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=33CCFF&stroke=33CCFF" 
       alt="GitHub Streak" 
     />
   </a>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yab3ts/yab3ts/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+
 
 ---
 
