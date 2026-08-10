@@ -9,7 +9,7 @@
   <a href="https://user-badge.committers.top/ethiopia/yab3ts">
     <img src="https://user-badge.committers.top/ethiopia/yab3ts.svg" alt="committers.top badge"/>
   </a>
-  <strong> One of the Top GitHub Committers in Ethiopia 🇪🇹 </strong>
+  <strong> One of the Top GitHub Committers in Ethiopia  </strong>
 </p>
 
 <p align="center">
