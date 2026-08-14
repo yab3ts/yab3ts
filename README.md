@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yabets-maregn.vercel.app/" target="_blank">
+  <a href="https://yabetsmaregn.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
  
