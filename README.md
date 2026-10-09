@@ -73,9 +73,10 @@
   <tr>
     <td><b>🛠️ Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node" />
       <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" />
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php" />
+      <img src="https://img.shields.io/badge/-Nest.js-777BB4?style=for-the-badge&logo=nest" />
+     <img src="https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel" />
     </td>
   </tr>
 
